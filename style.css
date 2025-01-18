@@ -1,0 +1,15 @@
+img{
+    width: 35%;
+    height: 35%;
+    animation-name: img;
+    animation-duration: 5s;    
+}
+
+@keyframes img{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
